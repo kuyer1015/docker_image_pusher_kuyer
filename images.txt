@@ -11,3 +11,4 @@ nginx:1.27.4
 ollama/ollama:0.6.8
 postgres:10.23-bullseye
 postgres:9.6.24-bullseye
+apache/kafka:3.9.2
